@@ -11,7 +11,7 @@ if(session_status() !== PHP_SESSION_ACTIVE) {
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<base href="<?php echo dirname($_SERVER["PHP_SELF"]) . "/"; ?>" />
 
-		<title>Twitter Data Design Example</title>
+		<title>Ang 4 Example</title>
 	</head>
 	<body>
 		<ng4-example>Loading&hellip;</ng4-example>
